@@ -21,7 +21,7 @@
 - **Randomness**: Used mt19937 with fixed seed 1234 for reproducible results
 
 ## GitHub Repository
-https://github.com/[imann128]/DSA-A01
+https://github.com/imann128/DSA-A01
 
 ## Challenges Faced
 
@@ -43,10 +43,10 @@ https://github.com/[imann128]/DSA-A01
 
 ```bash
 # Polynomial
-g++ -std=c++14 -o polynomial Problem1_Polynomial/Polynomial.cpp Problem1_Polynomial/test_main.cpp
+g++ -std=c++14 -o polynomial polynomial.cpp test_main.cpp 
 
 # Text Editor  
-g++ -std=c++14 -o texteditor Problem2_TextEditor/TextEditor.cpp Problem2_TextEditor/test_texteditor.cpp
+g++ -std=c++14 -o texteditor texteditor.cpp test_texteditor.cpp 
 
 # UNO Game
-g++ -std=c++14 -o uno Problem3_UNO/UNO.cpp Problem3_UNO/uno_test.cpp
+g++ -std=c++14 -o uno uno.cpp uno_test.cpp
