@@ -21,7 +21,7 @@
 - **Randomness**: Used mt19937 with fixed seed 1234 for reproducible results
 
 ## GitHub Repository
-https://github.com/[imann128]/DSA-Assignment1
+https://github.com/[imann128]/DSA-A01
 
 ## Challenges Faced
 
